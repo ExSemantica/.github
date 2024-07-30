@@ -14,7 +14,7 @@ The Discord guild is a very fast way of getting a response off a contributor.
 
 The IRC channel is an alternative to Discord.
 
-- `#exsemantica` on `irc.libera.chat`.
+- `##chlorophytus` on `irc.libera.chat`.
 
 [microblogging]: https://en.wikipedia.org/wiki/Microblogging
 [irc-based-messaging-platform]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
