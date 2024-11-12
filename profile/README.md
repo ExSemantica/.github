@@ -1,6 +1,6 @@
 # ExSemantica
 
-The ExSemantica project is a free and open source [microblogging][microblogging] and [IRC based messaging platform][irc-based-messaging-platform] for people who share interests.
+The ExSemantica project is a free and open source [link aggregator][link-aggregator] and [IRC based messaging platform][irc-based-messaging-platform] for people who share interests.
 
 ## Support
 
@@ -16,5 +16,5 @@ The IRC channel is an alternative to Discord.
 
 - `##chlorophytus` on `irc.libera.chat`.
 
-[microblogging]: https://en.wikipedia.org/wiki/Microblogging
+[link-aggregator]: https://en.wikipedia.org/wiki/Social_news_website
 [irc-based-messaging-platform]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
